@@ -4,7 +4,7 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: #050307;
   color: #fff;
   overflow-x: hidden;
 }
@@ -29,6 +29,7 @@ h1 {
   padding-right: 0.5rem;
   margin: auto;
   padding: 1rem;
+  color: #fff;
 }
 
 .error {
@@ -93,7 +94,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #3c2455;
 }
 
 .member-page form .card > div {
@@ -116,7 +117,7 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
+  background-color: rgb(223, 19, 19);
   color: #fff;
   border: none;
   font-weight: bold;
@@ -128,11 +129,11 @@ button {
 }
 
 button:hover {
-  background-color: #121212;
+  background-color: #72bb14;
 }
 
 button:focus {
-  background-color: #222;
+  background-color: rgb(0, 126, 73);
 }
 
 button:disabled {
